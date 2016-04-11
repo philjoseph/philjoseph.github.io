@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why blogging now?"
-date:   2016-04-10 18:21:31
+date:   2016-04-9 18:21:31
 categories: business, shefing
 author: "Philippe Cohen"
 ---
