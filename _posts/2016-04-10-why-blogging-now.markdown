@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Why blogging now?"
+date:   2016-04-10 18:21:31
+categories: home
+---
+
+First answer: because I have more time now, after wrapping up a 30 month intensive engagement in a startup I co-founded, [audyx](http://www.audyx.com/en "audyx - the first online audiology platform"){:target="_blank"}. Unfortunatly, I had to step out and I've decided together with some of the best individuals I've worked with the past years to focus on other people projects. So [Shefing](http://www.shefing.com "Innovation as a service") is back, offering our experience and talent to others. 
+
+This blog is actually the first step in sharing our experience, about the cloud, [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service), the evolution of the web, agility,  UX,  quality, compliancy... This blog is a good exercise for us to crytallize our own learnings and also to expose it to our audience. Thanks to [Benjamin](https://fr.linkedin.com/in/benjaminstanislas){:target="_blank"} and [Maxime](https://il.linkedin.com/in/leadlike/en){:target="_blank"} for the advise. 
