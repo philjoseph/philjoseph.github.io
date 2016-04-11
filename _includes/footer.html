@@ -5,12 +5,15 @@
     <h2 class="footer-heading small-site-title">{{ site.title }}</h2>
 
     <div class="footer-col-wrapper">
+
       <div class="footer-col footer-col-1">
         <ul class="contact-list footer-content">
-          <li>Powered By Gravity</li>
-          <li>Made with <i class="fa fa-heart"></i> on <a href="jekyll.com"><span style="color:black">{ { Jekyll } }</a></span></li>
-
-
+          <li>
+            <a href="mailto:{{ site.email }}">
+              <i class="fa fa-envelope-o"></i>
+              {{ site.email }}
+            </a>
+          </li>
         </ul>
       </div>
 
