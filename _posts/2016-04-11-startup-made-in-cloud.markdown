@@ -3,7 +3,6 @@ layout: post
 title:  "Startup made in cloud"
 date:   2016-04-10 18:21:31
 categories: business, cloud
-comments: true
 author: "Philippe Cohen"
 ---
 The first lesson I am taking from my recent startup experiences is about the Cloud: it obsoleted the servers and IT infrastructures setup to make trivial to launch a new startup from scratch. 
