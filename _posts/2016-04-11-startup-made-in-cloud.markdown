@@ -68,6 +68,7 @@ I was using Skype for a while and used a bit Google hangouts. [Slack](https://sl
 </div>
 
 Bottom line, we have now all tools we need to run a startup, at almost no cost. 
-> Note: I did not write about the sales operation, since we used Salesforce.com that is not low cost.. I will be glad to hear about good new CRM on the cloud.
+
+> Note: I did not write about the sales operation, since we used Salesforce.com that is expensive and not offering a great user experience. I've looked for a good, nice, simple and cheap CRM over the cloud with no clear findings. If you have a recommendation, please post it here.
 
 In another post, I will talk about the Cloud from the development and the DevOp perspective. 
