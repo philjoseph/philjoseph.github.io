@@ -156,20 +156,22 @@ a {
 
     &:hover {
         color: black !important;
-        border-bottom: 1px dotted black ;
+/*        border-bottom: 1px dotted black ; */
+
     }
 
     &.page-link{
       &:hover {
           color: $text-color;
-          border-bottom: 1px dotted black ;
-      }
+/*     border-bottom: 1px dotted black ;
+*/      }
     }
     &.postLink{
       color: black !important;
       &:hover {
 
-          border-bottom: 1px dotted black ;
+/*      border-bottom: 1px dotted black ;
+*/      
       }
 
       &:visited {
@@ -180,8 +182,8 @@ a {
       color: black !important;
       &:hover {
 
-          border-bottom: 1px dotted black !important ;
-      }
+/*  border-bottom: 1px dotted black !important ;
+*/     }
 
       &:visited {
           color: "crimson" !important;
