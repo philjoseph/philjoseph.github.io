@@ -67,8 +67,8 @@ I was using Skype for a while and used a bit Google hangouts. [Slack](https://sl
 <br>
 </div>
 
-Bottom line, we have now all tools we need to run a startup, at almost no cost. 
+Bottom line, the cloud is changing the way we start a new operation, the way we run projects and communicate, the money we spent on infrastructures and most important its change our user experience. 
 
 > Note: I did not write about the sales operation, since we used Salesforce.com that is expensive and not offering a great user experience. I've looked for a good, nice, simple and cheap CRM over the cloud with no clear findings. If you have a recommendation, please post it here.
 
-In another post, I will talk about the Cloud from the development and the DevOp perspective. 
+In the next post, I will talk about the impact of the cloud on the development and the DevOp perspective. 
