@@ -1,6 +1,6 @@
 <div class="share-page">
 
-    <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}&title={{ page.title }}" 
+    <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}&summary={{site.description}}" 
        rel="nofollow" 
        target="_blank" 
        title="Share on LinkedIn"
@@ -8,7 +8,7 @@
        <span class="fa fa-linkedin-square"></span>
     </a>
 
-    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" 
+    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}" 
       rel="nofollow" 
       target="_blank" 
       title="Share on Twitter"
