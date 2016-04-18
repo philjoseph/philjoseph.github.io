@@ -4,6 +4,7 @@ title:  "Startup made in cloud"
 date:   2016-04-10 18:21:31
 categories: business, cloud
 author: "Philippe Joseph Cohen"
+image: "/assets/startup.png"
 ---
 My first lesson from my recent startup experiences is about the Cloud that trivialize the launch of a new startup. Basically all you need today to start a new development operation is simply a couple of great developers (You can also hire over the Cloud, but this worth another post), good laptops and fast Internet connections. No need for servers, no server room, no RAID disks, no backup devices, no switches, no hubs, no sysadmin, no firewall, no [DevOps](https://en.wikipedia.org/wiki/DevOps){:target="_blank"} engineers, no production manager,  no source control administrators, no [clearcase VOBs](https://en.wikipedia.org/wiki/Rational_ClearCase){:target="_blank"}...
 
