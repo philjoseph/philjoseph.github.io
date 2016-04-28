@@ -18,4 +18,4 @@ As I wrote in [Why blogging now]({% post_url 2016-04-10-why-blogging-now %}) the
 <div style="text-align:center" markdown="1">
 ![](/assets/about.png)
 <br>
-</div>
+</div>	
