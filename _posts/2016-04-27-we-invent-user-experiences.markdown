@@ -54,7 +54,9 @@ Below image demonstrates how white space plays a role in defining visual hierarc
 Audyx deals with a broad range of data. It's easier to achieve simplicity when you have less to offer. But sometimes you just have to work with what's on the table. It was the case for me as there were conventions to follow in a medical industry. It's challenging to turn complex to simple but it's possible if you care to make it.
 
 <br>
+
 ## Engaging first-time user experience
+
 How can we foster an engaging relationship for first-time users? This wasn't the kind of question we addressed in the beginning. But soon we realised the importance of it. It’s like we were going to say to our customers "we don't give much value to our first hand shake”. First impressions can make or break the relationship. How would you feel if what you are seeing is all blank spaces? We looked at ways to present zero-state screens that would drive actions and make trial users want to find out more about the product. 
 
 
