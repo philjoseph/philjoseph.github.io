@@ -4,6 +4,8 @@ title:  "Platform as a Service Developer experience"
 date:   2016-05-1 8:21:31
 categories: business, cloud
 author: "Philippe Joseph Cohen"
+description: "How the cloud had changed our development workflow"
+image: "assets/paas.png"
 ---
 The cloud is transforming the relation we have with our audience, changing the workflow of the development operation. In [Startup made in cloud]({% post_url 2016-04-11-startup-made-in-cloud %}) I've wrote about the cloud impact on general operations, such as email, communication and project management, in this post I want to share with you how [Plaform as a Service](https://en.wikipedia.org/wiki/Platform_as_a_service){:target="_blank"} and more specifically [Heroku](https://www.heroku.com/what){:target="_blank"}, changed the way we build teams, develop, deploy, support and monitor our web product.
 <div style="text-align:center" markdown="1">
