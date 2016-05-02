@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Platform as a Service - The developer experience"
-date:   2016-04-27 8:21:31
+title:  "Platform as a Service - Developer experience"
+date:   2016-04-16 8:21:31
 categories: business, cloud
 author: "Philippe Joseph Cohen"
 ---
