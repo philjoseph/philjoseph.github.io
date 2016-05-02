@@ -2,7 +2,7 @@
 layout: post
 title:  "Platform as a Service Developer experience"
 date:   2016-05-1 8:21:31
-categories: business, cloud
+categories: paas
 author: "Philippe Joseph Cohen"
 description: "How the cloud had changed our development workflow"
 image: "assets/paas.png"
